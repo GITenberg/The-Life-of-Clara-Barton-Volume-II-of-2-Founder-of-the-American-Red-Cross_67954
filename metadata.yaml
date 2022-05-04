@@ -1,0 +1,31 @@
+_repo: The-Life-of-Clara-Barton-Volume-II-of-2-Founder-of-the-American-Red-Cross_67954
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barton, William E. (William Eleazar)
+    aliases:
+    - Barton, William Eleazar
+    - Barton, W. E. (William Eleazar)
+    birthdate: 1861
+    deathdate: 1930
+    gutenberg_agent_id: '6665'
+    url: http://www.gutenberg.org/2009/agents/6665
+description: ''
+gutenberg_issued: '2022-04-30'
+identifiers:
+  gutenberg: '67954'
+language: en
+pgterms:marc904: https://archive.org/details/b29930819_0001 https://archive.org/details/b29930819_0002
+pgterms:marc905: 20190420195811barton
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Houghton Mifflin Company,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Life of Clara Barton, Volume II (of 2): Founder of the American Red Cross'
+url: http://www.gutenberg.org/ebooks/67954
