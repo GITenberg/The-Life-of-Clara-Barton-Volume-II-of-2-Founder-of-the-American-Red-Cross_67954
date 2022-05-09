@@ -1,5 +1,8 @@
 _repo: The-Life-of-Clara-Barton-Volume-II-of-2-Founder-of-the-American-Red-Cross_67954
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67954-h/images/cover.jpg
 creator:
   author:
     agent_name: Barton, William E. (William Eleazar)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '6665'
     url: http://www.gutenberg.org/2009/agents/6665
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67954#The-Life-of-Clara-Barton-Volume-II-of-2-Founder-of-the-American-Red-Cross
 gutenberg_issued: '2022-04-30'
 identifiers:
   gutenberg: '67954'
